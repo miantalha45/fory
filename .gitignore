@@ -109,6 +109,8 @@ benchmarks/**/report/
 ci-logs/**
 **/*.log
 swift/.build
+.build/
+**/.build/
 .build-*
 integration_tests/idl_tests/swift/.build
 integration_tests/idl_tests/swift/idl_package/.build
@@ -134,3 +136,6 @@ benchmarks/dart/profile_output
 **/pubspec.lock
 
 **/tmp/*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
