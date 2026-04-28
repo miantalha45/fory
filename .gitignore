@@ -134,3 +134,5 @@ benchmarks/dart/profile_output
 **/pubspec.lock
 
 **/tmp/*
+.build/
+**/.build/
